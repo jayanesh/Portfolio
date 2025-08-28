@@ -106,7 +106,7 @@ body{
 @media (max-width:880px){
     .navbar{
         backdrop-filter: none;
-        background-color: rgba(153, 0, 102, 0.554);
+        background-color: rgba(0, 135, 153, 0.554);
         box-shadow: 0 10px 10px rgba(18, 18, 18, 0.5);
 
     }
@@ -304,6 +304,7 @@ html {
         font-size: 80%;
     } 
 }
+
 
 
 
