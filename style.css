@@ -59,7 +59,7 @@ body{
     white-space:nowrap;
 }
 .navbar-container .navbar-menu li a:hover, .navbar-container .navbar-menu li a.active{
-    color:rgb(130, 220, 255);
+    color:rgba(8, 9, 9, 0.436);
     background: transparent;
     box-shadow: 0 10px 20px rgba(0,0,0, 0.5);
     border: 2px solid white;
@@ -304,6 +304,7 @@ html {
         font-size: 80%;
     } 
 }
+
 
 
 
