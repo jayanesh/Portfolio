@@ -7,9 +7,10 @@
 }
 body{
     font-family:"Montserrat","Poppins";
-    min-height: 200vh;
-    background: url(Background.gif) no-repeat
-    center center/cover;
+    background: url('Background.gif') no-repeat center center / cover;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
 }
 .navbar{
     display: flex;
@@ -302,6 +303,7 @@ html {
         font-size: 80%;
     } 
 }
+
 
 
 
