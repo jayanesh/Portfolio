@@ -1,19 +1,8 @@
-# Portfolio
-This is my very first website that I built and deployed.
+# Portfolio 
+This is my very first website that I fully build and deployed.
 
-Project structure (organized):
+I took some YouTube videos for reference and was assisted by GitHub Copilot while making it.
 
-- css/: stylesheet files (moved from root)
-- js/: JavaScript modules grouped by DOM sections (e.g., `js/navbar.js`)
-- index.html: main HTML file
-- README.md: this file
-
-Notes:
-- Open `index.html` in a browser to view the site locally.
-- Static assets referenced by the site (e.g., `Background.gif`, `JH.png`) remain in the repository root if present.
-
-If you want, I can also:
-- Split additional JS into modules for other DOM sections
-- Add a basic local preview script (e.g., with `http-server`)
+I've deployed using GitHub itself.
 
 
