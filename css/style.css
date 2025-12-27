@@ -7,7 +7,7 @@
 }
 body{
     font-family:"Montserrat","Poppins";
-    background: url('../Background.gif') no-repeat center center / cover;
+    background: url('Background.gif') no-repeat center center / cover;
     min-height: 300vh;
     background-attachment: fixed;
     height: 100vh;
