@@ -12,8 +12,3 @@ Notes:
 - Open `index.html` in a browser to view the site locally.
 - Static assets referenced by the site (e.g., `Background.gif`, `JH.png`) remain in the repository root if present.
 
-If you want, I can also:
-- Split additional JS into modules for other DOM sections
-- Add a basic local preview script (e.g., with `http-server`)
-
-
