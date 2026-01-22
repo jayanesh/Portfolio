@@ -12,6 +12,7 @@ body{
     background-attachment: fixed;
     height: 100vh;
     margin: 0;
+    background-color: black;
 }
 .navbar{
     display: flex;
@@ -304,6 +305,7 @@ html {
         font-size: 80%;
     } 
 }
+
 
 
 
